@@ -1,6 +1,15 @@
 title: Rohith Kumar Kukkapalli
 logo: /assets/img/my pic.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rohith-kumar-76a16992/">LinkedIn</a> |
+  <a href="https://github.com/krk431">GitHub</a>
+ 
+  <br>  
+  I'm a Product manager with data science background, I am taking care of a product from design to usage.
+  I also develop chat bot, I work on powerBI reports. I was part of machine learning and nlp projects
+  I worked in web application development. 
+  <br>
+  </p>
